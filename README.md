@@ -10,8 +10,8 @@ This personal project explores the relationship between credit card spending dat
 - **Results Analysis**: Analyzing model performance, sector performance, and trading strategies.
 
 ## Files
-- 'final_report.pdf' : Contains my written analysis
-- 'Modeling and Analysis.ipynb' : Contains the modeling along my analysis step by step
+- `final_report.pdf` : Contains my written analysis
+- `Modeling and Analysis.ipynb` : Contains the modeling along my analysis step by step
 - `README.md`: Overview of the project (this file).
 
 ## Key Findings
