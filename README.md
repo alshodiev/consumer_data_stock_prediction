@@ -3,7 +3,6 @@
 ## Overview
 This personal project explores the relationship between credit card spending data and daily stock returns for 100 unique stocks. Using data on consumer transaction trends across different user cohorts, we investigate how spending patterns can forecast stock returns. The project applies various modeling techniques, including linear regression, Random Forest, and Lasso regression, to understand the predictive power of spending data on stock returns.
 
-## Contents
 ## Notebook Contents
 
 - [**1. Data Loading and Exploration**](#set_up)
